@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react_router_dom'; // Note: react-router-dom
+import { Link } from 'react-router-dom'; // Note: react-router-dom
 function Navbar() {
 return (
 <nav className="bg-slate-800 text-white p-4 shadow-md">
